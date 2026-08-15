@@ -1,7 +1,7 @@
 # Hi there, I'm WL 👋
 
 ### 🚀 About Me
-I'm a Developer based in **Singapore** SG, passionate about building **Agentic AI Systems**, **RAG Architecture**, **Full-Stack Applications**, and **Machine Learning**.
+I'm a Developer based in **Singapore** 🇸🇬, passionate about building **Agentic AI Systems**, **RAG Architecture**, **Full-Stack Applications**, and **Machine Learning**.
 
 - 🔭 Currently working on **Agentic RAG & Knowledge Systems** and **AI Chatbots**
 - 🌱 Learning & exploring Advanced AI Agents and Distributed Systems
@@ -24,12 +24,20 @@ I'm a Developer based in **Singapore** SG, passionate about building **Agentic A
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wl99-human&show_icons=true&theme=tokyonight" height="175" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wl99-human&layout=compact&theme=tokyonight" height="175" alt="top languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=wl99-human&show_icons=true&theme=tokyonight" height="175" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=wl99-human&layout=compact&theme=tokyonight" height="175" alt="Top Languages" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wl99-human&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
 
 ### 📫 Connect with Me
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/lim-wei-lee-266b1487/  )
-- ✉️ **Email**: `weileelim2012@gmail.com`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lim-wei-lee-266b1487/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weileelim2012@gmail.com)
+
+- 💼 **LinkedIn**: [Wei Lee Lim](https://www.linkedin.com/in/lim-wei-lee-266b1487/)
+- ✉️ **Email**: [weileelim2012@gmail.com](mailto:weileelim2012@gmail.com)
