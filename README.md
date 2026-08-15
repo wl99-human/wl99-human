@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm WL 👋
 
-<!--
-**wl99-human/wl99-human** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I'm a Developer based in **Singapore** SG, passionate about building **Agentic AI Systems**, **RAG Architecture**, **Full-Stack Applications**, and **Machine Learning**.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on **Agentic RAG & Knowledge Systems** and **AI Chatbots**
+- 🌱 Learning & exploring Advanced AI Agents and Distributed Systems
+- 💬 Ask me about **Python**, **TypeScript/JavaScript**, **Java / Spring Boot**, and **Machine Learning**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wl99-human&show_icons=true&theme=tokyonight" height="175" alt="stats card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wl99-human&layout=compact&theme=tokyonight" height="175" alt="top languages" />
+</div>
+
+---
+
+### 📫 Connect with Me
+- 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/lim-wei-lee-266b1487/  )
+- ✉️ **Email**: `weileelim2012@gmail.com`
