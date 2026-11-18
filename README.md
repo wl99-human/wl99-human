@@ -5,7 +5,7 @@ I'm a Developer based in **Singapore** 🇸🇬, passionate about building **Age
 
 - 🔭 Currently working on **Agentic RAG & Knowledge Systems** and **AI Chatbots**
 - 🌱 Learning & exploring Advanced AI Agents and Distributed Systems
-- 💬 Ask me about **Python**, **TypeScript/JavaScript**, **Java / Spring Boot**, and **Machine Learning**
+- 💬 Ask me about **Python**, **TypeScript/JavaScript**, **Java/Spring Boot**, and **Machine Learning**
 
 ---
 
